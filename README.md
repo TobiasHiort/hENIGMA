@@ -7,7 +7,7 @@ Install [Haskell](https://www.haskell.org/platform/).
 
 ## Running hENIGMA
 
-Compile with:
+Compile from `/src` with:
 ```
 $ ghc -o hENIGMA hENIGMA.hs
 ```
